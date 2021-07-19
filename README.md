@@ -1,4 +1,7 @@
 ### Hi there 👋
+I’m currently learning DevOps practices
+I’m interested in Python
+Originally from Moscow (ru)
 
 <!--
 **Nezuur/Nezuur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
