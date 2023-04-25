@@ -3,8 +3,8 @@
 **Get in touch:**
 ![Linkedin Badge](https://img.shields.io/badge/-ichetovkin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aleksandr-ichetovkin-969a151a1)
 
-- I’m currently learning DevOps practices
-- I’m interested in Python
+- I’m currently working as a DevOps engineer
+- I’m interested in Python and Go
 - Originally from Moscow (ru)
 
 <!--
