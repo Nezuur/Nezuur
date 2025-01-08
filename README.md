@@ -1,11 +1,12 @@
 ### Hi there 👋, I'm Alex!
 
-**Get in touch:**
-![Linkedin Badge](https://img.shields.io/badge/-ichetovkin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aleksandr-ichetovkin-969a151a1)
+🚀 **DevOps Engineer** based in Toronto, Canada 🇨🇦
 
-- I’m currently working as a DevOps engineer
-- I’m interested in Python and Go
-- Originally from Moscow (ru)
+🔧 **Tech Interests:**  
+&nbsp; &nbsp; Terraform, Ansible, Python, Go
+
+🌐 **Let's Get in Touch:**  
+[![Linkedin Badge](https://img.shields.io/badge/-Alexander_Ichetovkin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexander-ichetovkin)](https://www.linkedin.com/in/alexander-ichetovkin)
 
 <!--
 **Nezuur/Nezuur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
